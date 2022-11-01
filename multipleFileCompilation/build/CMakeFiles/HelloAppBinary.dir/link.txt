@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/HelloAppBinary.dir/main.cpp.o CMakeFiles/HelloAppBinary.dir/src/dog.cpp.o CMakeFiles/HelloAppBinary.dir/src/operations.cpp.o -o HelloAppBinary 
