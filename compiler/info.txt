@@ -1,0 +1,5 @@
+use -G"build system" --> for specifying the build system like ninja or make
+
+use -D CMAKE_CXX_COMPILER=clang++  -->for specifying the compiler 
+
+

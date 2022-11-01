@@ -1,0 +1,9 @@
+do cmake --help
+
+generator flags are for which build system you want to generate..
+
+for ex..
+    1) Unix Makefiles
+    2) Ninja
+    etc..
+    

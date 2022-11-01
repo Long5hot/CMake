@@ -1,3 +1,0 @@
-/home/kishan/kishan/CMake/day1/build/CMakeFiles/HelloAppBinary.dir
-/home/kishan/kishan/CMake/day1/build/CMakeFiles/edit_cache.dir
-/home/kishan/kishan/CMake/day1/build/CMakeFiles/rebuild_cache.dir
