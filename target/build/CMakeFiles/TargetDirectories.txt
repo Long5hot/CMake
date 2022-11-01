@@ -1,0 +1,5 @@
+/home/kishan/kishan/CMake/target/build/CMakeFiles/operations.dir
+/home/kishan/kishan/CMake/target/build/CMakeFiles/logger.dir
+/home/kishan/kishan/CMake/target/build/CMakeFiles/HelloAppBinary.dir
+/home/kishan/kishan/CMake/target/build/CMakeFiles/edit_cache.dir
+/home/kishan/kishan/CMake/target/build/CMakeFiles/rebuild_cache.dir

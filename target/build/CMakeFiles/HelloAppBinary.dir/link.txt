@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/HelloAppBinary.dir/main.cpp.o CMakeFiles/HelloAppBinary.dir/src/dog.cpp.o -o HelloAppBinary  liboperations.a liblogger.a 
